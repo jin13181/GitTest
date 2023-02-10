@@ -1,0 +1,7 @@
+git init : 깃을 시작하겠다 (.git폴더 만듦)
+
+git add 파일명
+git add .
+git add *
+
+이 까지하면 로컬 깃에 추가가 된 상태
